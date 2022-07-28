@@ -1,0 +1,62 @@
+body {
+    background: aqua;
+    padding: 15px;
+    letter-spacing: 2px;
+    width: 400px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.cabecalho{
+    text-align: center;
+}
+
+.calc{
+    border-radius: 2%;
+    background-color: black;
+    padding: 15px;
+    margin: 20px;
+    margin-top: 55px;
+    height: 300px;
+}
+
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%;
+    width: 50%;
+}
+
+#resultado{
+    background-color: darkgray;
+    color: black;
+    width: 47%;
+    height: 32px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    align-items: center;
+}
+
+button{
+    background-color: darkgrey;
+    width: 42px;
+    height: 32px;
+    border-radius: 2%;
+}
+
+#nzero{
+    width: 88px;
+}
+
+#nigual{
+    height: 79px;
+}
+
+
